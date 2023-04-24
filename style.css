@@ -1,0 +1,15 @@
+body{
+background-image:url(Joomla1.png);
+background-size: cover;
+color:black
+}
+small{
+
+background-color: gold;
+
+}
+h1{
+
+ background-size: 100px;   
+ font-family: Arial, Helvetica, sans-serif;
+}
